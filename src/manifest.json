@@ -3,7 +3,7 @@
   "description": "Show id on every card and card counter on every list",
   "manifest_version": 2,
   "name": "Trello extras",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/fain182/trello-extras",
   "icons": {
     "48": "icons/icon-48.png"
