@@ -1,5 +1,6 @@
 #!/bin/sh
 rm trello-extras.zip
-zip -r -FS ./trello-extras.zip src/*
+cd src
+zip -r -FS ../trello-extras.zip *
 echo 
 echo "trello-extras.zip ready to be uploaded"
