@@ -1,5 +1,3 @@
-console.log("Trello extra is working 3!!");
-
 var css = document.createElement("style");
 css.type = "text/css";
 css.innerHTML = ".list-header-num-cards.hide { display: inline-block; }";
