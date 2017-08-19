@@ -8,11 +8,14 @@
   "icons": {
     "48": "icons/icon-48.png"
   },
-
   "content_scripts": [
     {
       "matches": ["https://trello.com/*"],
-      "js": ["app.js"]
+      "js": ["app.js"],
+      "css": [
+        "show-card-id.css",
+        "show-num-cards.css"
+      ]
     }
   ]
 

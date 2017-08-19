@@ -1,0 +1,14 @@
+.card-short-id.hide {
+  display: inline-block;
+}
+
+.card-short-id {
+  font-size: 9pt; 
+  margin-right: 5px;
+  color: #fff;
+  background: #ccc;
+  width: 51px;
+  text-align: center;
+  border-radius: 3px;
+  float: right;
+}
