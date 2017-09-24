@@ -1,5 +1,4 @@
 {
-
   "description": "Show id on every card and card counter on every list",
   "manifest_version": 2,
   "name": "Trello extras",
@@ -10,13 +9,17 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://trello.com/*"],
-      "js": ["app.js"],
+      "matches": [
+        "https://trello.com/*"
+      ],
+      "js": [
+        "app.js"
+      ],
       "css": [
-        "show-card-id.css",
+        "show-card-id-in-list-view.css",
+        "show-card-id-in-detail-view.css",
         "show-num-cards.css"
       ]
     }
   ]
-
 }
