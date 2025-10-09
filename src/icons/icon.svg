@@ -1,0 +1,16 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="48" height="48" rx="8" fill="#F6B73C"/>
+
+  <!-- List card representation -->
+  <rect x="10" y="10" width="28" height="28" rx="3" fill="white" opacity="0.9"/>
+
+  <!-- Three small rectangles representing cards -->
+  <rect x="14" y="14" width="20" height="4" rx="1" fill="#42526E"/>
+  <rect x="14" y="20" width="20" height="4" rx="1" fill="#42526E"/>
+  <rect x="14" y="26" width="20" height="4" rx="1" fill="#42526E"/>
+
+  <!-- Counter badge -->
+  <circle cx="35" cy="13" r="8" fill="#0079BF"/>
+  <text x="35" y="17.5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">3</text>
+</svg>
