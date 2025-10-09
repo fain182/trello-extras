@@ -2,12 +2,10 @@
 
 ![Screenshot](doc/screenshot.png)
 
-A firefox extension that add some useful extra feature to trello:
+A Firefox extension that shows the card counter on every Trello list.
 
-- show card id
-- show card counter of lists
+The counter badge appears inline with the list title, making it easy to see at a glance how many cards are in each column.
 
-# Install
+## Install
 
-[Add to Firefox](
-https://addons.mozilla.org/en/firefox/addon/trello-extras/)
+[Add to Firefox](https://addons.mozilla.org/en/firefox/addon/trello-extras/)
