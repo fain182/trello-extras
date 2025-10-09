@@ -1,3 +1,14 @@
-.list-header-num-cards.hide{
-  display: inline-block;
+.trello-extras-card-count {
+	margin-left: 8px;
+	padding: 3px 8px 2px 8px;
+	background-color: rgba(0, 0, 0, 0.15);
+	border-radius: 6px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #44546f;
+	display: inline-block;
+	line-height: 1;
+	min-width: 8px;
+	text-align: center;
+	vertical-align: baseline;
 }
